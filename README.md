@@ -1,5 +1,9 @@
 # python lightning talk
 
+## Try it live...
+
+http://krischer.github.io/seismo_live/
+
 ## What is this?
 
 This repo / notebook relates to a short talk on Python / Pandas at the University of Melbourne.
